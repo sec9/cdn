@@ -1,2 +1,2 @@
-samp.losland-rp.com:7777=llrp
-51.195.39.72:7777=llrp
+samp.losland-rp.com:7777=logo
+51.195.39.72:7777=logo
